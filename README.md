@@ -146,4 +146,3 @@ Doble campana:  [sin(2π·440·t) + 0.5·sin(2π·880·t)] / 1.5 · e^(-2.5t/d)
 ## Licencia
 
 MIT
-
